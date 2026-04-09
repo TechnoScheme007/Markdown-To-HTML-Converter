@@ -26,7 +26,7 @@ python md2html.py --serve
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/md2html.git
+git clone https://github.com/TechnoScheme007/md2html.git
 cd md2html
 
 # Optional: syntax highlighting
